@@ -1,4 +1,4 @@
-## Hello, I'm Miguel :)
+## Hello! I'm Miguel :)
 
 Here, I explore mathematical condensed matter theory and materials science, and its intersection with open source computational software.
 
