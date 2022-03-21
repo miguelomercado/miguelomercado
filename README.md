@@ -1,3 +1,5 @@
-# Hello, I'm Miguel!
+## Hello, I'm Miguel :)
 
-Continually updating this page as I keep documentation for my current project in Nano-Topology Optimization (Nano-TO), using LAMMPS and a mixture of other software.
+Here, I explore mathematical condensed matter theory and material science and its intersection with open source computational software.
+
+- I'll be continually updating this page as I keep better documentation for my current project: machine learning assisted Nano-Topology Optimization (Nano-TO) for materials design at the atomic scale (learning as I go!)
